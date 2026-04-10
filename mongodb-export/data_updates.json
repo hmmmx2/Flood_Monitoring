@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "69298201520721b13537ee55",
+    "node_id": "Node-1",
+    "timestamp": "2025-11-28T11:05:37.873Z",
+    "sensor_data": {
+      "temperature": 29.4,
+      "humidity": 83.1,
+      "water_level": 2.3,
+      "unit": {
+        "temperature": "°C",
+        "humidity": "%",
+        "water_level": "m"
+      }
+    },
+    "gps_data": {
+      "latitude": 1.5536,
+      "longitude": 110.3594,
+      "timestamp": "2025-11-28T11:05:37.873Z"
+    },
+    "raw_message": "TEMP:29.4,HUM:83.1,WL:2.3",
+    "device_ref": {
+      "$ref": "nodes",
+      "$id": "Node-1"
+    }
+  },
+  {
+    "_id": "69298201520721b13537ee56",
+    "node_id": "Node-2",
+    "timestamp": "2025-11-28T11:05:37.873Z",
+    "sensor_data": {
+      "water_level": 3.8,
+      "unit": {
+        "water_level": "m"
+      }
+    },
+    "gps_data": {
+      "latitude": 1.5541,
+      "longitude": 110.3611,
+      "timestamp": "2025-11-28T11:05:37.873Z"
+    },
+    "raw_message": "WL:3.8",
+    "device_ref": {
+      "$ref": "nodes",
+      "$id": "Node-2"
+    }
+  }
+]

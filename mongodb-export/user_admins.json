@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "69298202520721b13537ee5b",
+    "user_id": 1,
+    "first_name": "Jonathan",
+    "last_name": "Tang",
+    "email": "admin1@example.com",
+    "password": "hashed_pw1",
+    "role": "admin",
+    "last_login": "2025-11-28T11:05:38.312Z"
+  },
+  {
+    "_id": "69298202520721b13537ee5c",
+    "user_id": 2,
+    "first_name": "Sarah",
+    "last_name": "Lim",
+    "email": "admin2@example.com",
+    "password": "hashed_pw2",
+    "role": "admin",
+    "last_login": "2025-11-28T11:05:38.312Z"
+  }
+]

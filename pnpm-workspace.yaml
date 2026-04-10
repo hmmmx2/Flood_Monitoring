@@ -1,0 +1,7 @@
+packages:
+  # All apps live under apps/
+  - "apps/mobile"
+  - "apps/crm"
+  - "apps/community"
+  # Shared packages - types, API client, tokens, utils
+  - "packages/*"

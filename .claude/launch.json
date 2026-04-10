@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "flood-app-web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["expo", "start", "--web", "--port", "8082"],
+      "port": 8082,
+      "autoPort": false,
+      "cwd": "apps/mobile"
+    },
+    {
+      "name": "flood-app-native",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["expo", "start", "--port", "8083", "--host", "lan"],
+      "port": 8083,
+      "autoPort": false,
+      "cwd": "apps/mobile"
+    },
+    {
+      "name": "crm-dev",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "flood-management-crm", "dev"],
+      "port": 3000
+    },
+    {
+      "name": "community-dev",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "apps/community", "dev"],
+      "port": 3002
+    }
+  ]
+}

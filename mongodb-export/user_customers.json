@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "69298202520721b13537ee5e",
+    "user_id": 2,
+    "first_name": "Brian",
+    "last_name": "Tan",
+    "email": "customer2@example.com",
+    "password": "hashed_pw2",
+    "role": "customer",
+    "registered_nodes": [
+      "Node-2"
+    ]
+  },
+  {
+    "_id": "69298202520721b13537ee5d",
+    "user_id": 1,
+    "first_name": "Alice",
+    "last_name": "Lee",
+    "email": "customer1@example.com",
+    "password": "hashed_pw1",
+    "role": "customer",
+    "registered_nodes": [
+      "Node-1"
+    ]
+  }
+]

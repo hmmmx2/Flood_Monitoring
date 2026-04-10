@@ -1,0 +1,37 @@
+# ── Environment files — NEVER commit these ───────────────────────────────────
+.env
+.env.*
+.env.local
+.env.docker
+!.env.example
+!**/.env.example
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Node ──────────────────────────────────────────────────────────────────────
+node_modules/
+.pnpm-store/
+
+# ── Build outputs ─────────────────────────────────────────────────────────────
+dist/
+build/
+.next/
+out/
+
+# ── Java / Maven ──────────────────────────────────────────────────────────────
+apps/api/target/
+*.class
+*.jar
+
+# ── Terraform state (contains secrets) ───────────────────────────────────────
+infra/terraform/*.tfstate
+infra/terraform/*.tfstate.*
+infra/terraform/.terraform/
+infra/terraform/.terraform.lock.hcl
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.pem
+*.log
+.turbo/

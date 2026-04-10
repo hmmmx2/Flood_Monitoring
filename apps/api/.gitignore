@@ -1,0 +1,14 @@
+# ── Environment files — NEVER commit ─────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Maven build output ────────────────────────────────────────────────────────
+target/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.idea/
+*.iml
+.classpath
+.project
+.settings/

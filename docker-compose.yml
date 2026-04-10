@@ -1,0 +1,82 @@
+version: "3.9"
+
+# ─────────────────────────────────────────────────────────
+# Flood Monitoring System — Local Docker Compose (Monorepo)
+#
+# Services:
+#   api  → Java Spring Boot backend  http://localhost:3001
+#   crm  → Next.js CRM frontend      http://localhost:3000
+#
+# Mobile (Expo) runs natively via: pnpm mobile
+#
+# Usage:
+#   docker compose up --build          # Start all services
+#   docker compose up api              # Start API only
+#   docker compose up crm              # Start CRM only
+#   docker compose down                # Stop all
+#   docker compose down -v             # Stop + remove volumes
+#
+# Required env vars (copy from .env.example):
+#   DATABASE_URL    Neon PostgreSQL pooler URL
+#   JWT_SECRET      64-char random string
+#   JWT_REFRESH_SECRET  64-char random string
+# ─────────────────────────────────────────────────────────
+
+services:
+
+  # ── Java Spring Boot API ────────────────────────────────
+  api:
+    build:
+      context: ./apps/api
+      dockerfile: Dockerfile
+    container_name: flood-api
+    ports:
+      - "3001:3001"
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      JWT_SECRET: ${JWT_SECRET}
+      JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET}
+      NODE_ENV: ${NODE_ENV:-development}
+      REDIS_URL: ${REDIS_URL:-}
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3001/actuator/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+    networks:
+      - flood-network
+
+  # ── Next.js CRM Web ─────────────────────────────────────
+  # Source: apps/crm (inside monorepo)
+  # BFF pattern: CRM's /api/* routes proxy to the Java backend
+  crm:
+    build:
+      context: ./apps/crm
+      dockerfile: Dockerfile
+      args:
+        # Java API URL for CRM BFF server-side calls
+        JAVA_API_URL: http://api:3001
+        # Google Maps key for client-side map rendering
+        NEXT_PUBLIC_GOOGLE_MAPS_KEY: ${GOOGLE_MAPS_API_KEY:-}
+    container_name: flood-crm
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      # Server-side: CRM BFF → Java API (internal Docker network)
+      JAVA_API_URL: http://api:3001
+      # Client-side: browser → CRM Next.js BFF routes (same origin)
+      NEXT_PUBLIC_CRM_API_BASE: ""
+      NEXT_PUBLIC_GOOGLE_MAPS_KEY: ${GOOGLE_MAPS_API_KEY:-}
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - flood-network
+
+networks:
+  flood-network:
+    driver: bridge

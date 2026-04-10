@@ -1,0 +1,1112 @@
+[
+  {
+    "_id": "692d58da6052053528c3b12f",
+    "node_id": "102782478",
+    "latitude": 1.531218,
+    "longitude": 110.357732,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:30.604Z",
+    "created_at": "2025-11-24T06:36:00.369Z"
+  },
+  {
+    "_id": "692dcc2c165b1eac8435d3dd",
+    "node_id": "tet01",
+    "latitude": 1.552687,
+    "longitude": 110.323727,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.288Z",
+    "created_at": "2025-12-01T17:11:08.378Z"
+  },
+  {
+    "_id": "692e0b58ebe63dc77e000000",
+    "node_id": "NODE_40143",
+    "latitude": 1.554007,
+    "longitude": 110.325484,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.076Z",
+    "created_at": "2025-12-01T21:40:40.144Z"
+  },
+  {
+    "_id": "692e0c03ebe63ec77e000000",
+    "node_id": "NODE_11686",
+    "latitude": 1.555392,
+    "longitude": 110.32633,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.596Z",
+    "created_at": "2025-12-01T21:43:31.686Z"
+  },
+  {
+    "_id": "692e0c43ebe63fc77e000000",
+    "node_id": "NODE_75787",
+    "latitude": 1.557857,
+    "longitude": 110.327524,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:09.316Z",
+    "created_at": "2025-12-01T21:44:35.787Z"
+  },
+  {
+    "_id": "692e0cb5ebe640c77e000000",
+    "node_id": "NODE_89160",
+    "latitude": 1.559881,
+    "longitude": 110.32832,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:15:02.708Z",
+    "created_at": "2025-12-01T21:46:29.160Z"
+  },
+  {
+    "_id": "692e0cf5ebe641c77e000000",
+    "node_id": "NODE_53125",
+    "latitude": 1.562897,
+    "longitude": 110.328806,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:37.405Z",
+    "created_at": "2025-12-01T21:47:33.125Z"
+  },
+  {
+    "_id": "692e12ff93d6518b84000000",
+    "node_id": "NODE_99974",
+    "latitude": 1.565657,
+    "longitude": 110.329437,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:15:58.907Z",
+    "created_at": "2025-12-01T22:13:19.975Z"
+  },
+  {
+    "_id": "692e130393d6528b84000000",
+    "node_id": "NODE_03593",
+    "latitude": 1.569167,
+    "longitude": 110.330389,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.988Z",
+    "created_at": "2025-12-01T22:13:23.593Z"
+  },
+  {
+    "_id": "692e130893d6538b84000000",
+    "node_id": "NODE_08989",
+    "latitude": 1.567133,
+    "longitude": 110.332791,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:10.704Z",
+    "created_at": "2025-12-01T22:13:28.989Z"
+  },
+  {
+    "_id": "692e130b93d6548b84000000",
+    "node_id": "NODE_11223",
+    "latitude": 1.564548,
+    "longitude": 110.334462,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:02.484Z",
+    "created_at": "2025-12-01T22:13:31.223Z"
+  },
+  {
+    "_id": "692e131093d6558b84000000",
+    "node_id": "NODE_16434",
+    "latitude": 1.566112,
+    "longitude": 110.333595,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:15:43.644Z",
+    "created_at": "2025-12-01T22:13:36.434Z"
+  },
+  {
+    "_id": "692e131393d6568b84000000",
+    "node_id": "NODE_19704",
+    "latitude": 1.562534,
+    "longitude": 110.334883,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.788Z",
+    "created_at": "2025-12-01T22:13:39.704Z"
+  },
+  {
+    "_id": "692e131793d6578b84000000",
+    "node_id": "NODE_23047",
+    "latitude": 1.560961,
+    "longitude": 110.335393,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:25.336Z",
+    "created_at": "2025-12-01T22:13:43.047Z"
+  },
+  {
+    "_id": "692e131993d6588b84000000",
+    "node_id": "NODE_25490",
+    "latitude": 1.559528,
+    "longitude": 110.336241,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.550Z",
+    "created_at": "2025-12-01T22:13:45.490Z"
+  },
+  {
+    "_id": "692e133293d6598b84000000",
+    "node_id": "NODE_50479",
+    "latitude": 1.558562,
+    "longitude": 110.33847,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.567Z",
+    "created_at": "2025-12-01T22:14:10.479Z"
+  },
+  {
+    "_id": "692e133693d65a8b84000000",
+    "node_id": "NODE_54374",
+    "latitude": 1.560087,
+    "longitude": 110.339891,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:43.780Z",
+    "created_at": "2025-12-01T22:14:14.374Z"
+  },
+  {
+    "_id": "692e133c93d65b8b84000000",
+    "node_id": "NODE_60463",
+    "latitude": 1.560418,
+    "longitude": 110.342191,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:24.087Z",
+    "created_at": "2025-12-01T22:14:20.463Z"
+  },
+  {
+    "_id": "692e154693d65c8b84000000",
+    "node_id": "NODE_82039",
+    "latitude": 1.560508,
+    "longitude": 110.34328,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.900Z",
+    "created_at": "2025-12-01T22:23:02.039Z"
+  },
+  {
+    "_id": "692e157c93d65d8b84000000",
+    "node_id": "NODE_36723",
+    "latitude": 1.561049,
+    "longitude": 110.338079,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:07.198Z",
+    "created_at": "2025-12-01T22:23:56.723Z"
+  },
+  {
+    "_id": "692e158893d65e8b84000000",
+    "node_id": "NODE_48668",
+    "latitude": 1.551734,
+    "longitude": 110.320776,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:15:37.300Z",
+    "created_at": "2025-12-01T22:24:08.668Z"
+  },
+  {
+    "_id": "692e158a93d65f8b84000000",
+    "node_id": "NODE_50806",
+    "latitude": 1.550689,
+    "longitude": 110.318153,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:20.674Z",
+    "created_at": "2025-12-01T22:24:10.806Z"
+  },
+  {
+    "_id": "692e158c93d6608b84000000",
+    "node_id": "NODE_52994",
+    "latitude": 1.549626,
+    "longitude": 110.315358,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:53.427Z",
+    "created_at": "2025-12-01T22:24:12.994Z"
+  },
+  {
+    "_id": "692e158f93d6618b84000000",
+    "node_id": "NODE_55195",
+    "latitude": 1.547742,
+    "longitude": 110.31293,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.447Z",
+    "created_at": "2025-12-01T22:24:15.195Z"
+  },
+  {
+    "_id": "692e159493d6628b84000000",
+    "node_id": "NODE_60964",
+    "latitude": 1.564284,
+    "longitude": 110.336575,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:06.303Z",
+    "created_at": "2025-12-01T22:24:20.964Z"
+  },
+  {
+    "_id": "692e159893d6638b84000000",
+    "node_id": "NODE_64062",
+    "latitude": 1.569598,
+    "longitude": 110.333603,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:16.033Z",
+    "created_at": "2025-12-01T22:24:24.062Z"
+  },
+  {
+    "_id": "692e159a93d6648b84000000",
+    "node_id": "NODE_66832",
+    "latitude": 1.571356,
+    "longitude": 110.328149,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:30.892Z",
+    "created_at": "2025-12-01T22:24:26.832Z"
+  },
+  {
+    "_id": "692e159d93d6658b84000000",
+    "node_id": "NODE_69223",
+    "latitude": 1.567413,
+    "longitude": 110.326763,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:19.128Z",
+    "created_at": "2025-12-01T22:24:29.223Z"
+  },
+  {
+    "_id": "692e15a093d6668b84000000",
+    "node_id": "NODE_72815",
+    "latitude": 1.564189,
+    "longitude": 110.326934,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:43.807Z",
+    "created_at": "2025-12-01T22:24:32.815Z"
+  },
+  {
+    "_id": "692e15a293d6678b84000000",
+    "node_id": "NODE_74822",
+    "latitude": 1.560303,
+    "longitude": 110.326493,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.960Z",
+    "created_at": "2025-12-01T22:24:34.822Z"
+  },
+  {
+    "_id": "692e15a793d6688b84000000",
+    "node_id": "NODE_79240",
+    "latitude": 1.555902,
+    "longitude": 110.324177,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:11.432Z",
+    "created_at": "2025-12-01T22:24:39.240Z"
+  },
+  {
+    "_id": "692e15b093d6698b84000000",
+    "node_id": "NODE_88417",
+    "latitude": 1.539402,
+    "longitude": 110.3127,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.409Z",
+    "created_at": "2025-12-01T22:24:48.417Z"
+  },
+  {
+    "_id": "692e15b493d66a8b84000000",
+    "node_id": "NODE_92719",
+    "latitude": 1.536928,
+    "longitude": 110.313854,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:19.836Z",
+    "created_at": "2025-12-01T22:24:52.719Z"
+  },
+  {
+    "_id": "692e15b793d66b8b84000000",
+    "node_id": "NODE_95555",
+    "latitude": 1.533491,
+    "longitude": 110.316866,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.675Z",
+    "created_at": "2025-12-01T22:24:55.555Z"
+  },
+  {
+    "_id": "692e15ba93d66c8b84000000",
+    "node_id": "NODE_98883",
+    "latitude": 1.533531,
+    "longitude": 110.321218,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:45.267Z",
+    "created_at": "2025-12-01T22:24:58.883Z"
+  },
+  {
+    "_id": "692e15be93d66d8b84000000",
+    "node_id": "NODE_02661",
+    "latitude": 1.533264,
+    "longitude": 110.325171,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.480Z",
+    "created_at": "2025-12-01T22:25:02.661Z"
+  },
+  {
+    "_id": "692e15c593d66e8b84000000",
+    "node_id": "NODE_09363",
+    "latitude": 1.53471,
+    "longitude": 110.329953,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.853Z",
+    "created_at": "2025-12-01T22:25:09.363Z"
+  },
+  {
+    "_id": "692e15c893d66f8b84000000",
+    "node_id": "NODE_12223",
+    "latitude": 1.533342,
+    "longitude": 110.334472,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:53.251Z",
+    "created_at": "2025-12-01T22:25:12.223Z"
+  },
+  {
+    "_id": "692e1bdecf579cb32b000000",
+    "node_id": "NODE_70965",
+    "latitude": 1.531302,
+    "longitude": 110.335321,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:32.671Z",
+    "created_at": "2025-12-01T22:51:10.967Z"
+  },
+  {
+    "_id": "692e368db1dfa56f1f000000",
+    "node_id": "NODE_01258",
+    "latitude": 5.049477,
+    "longitude": 102.860414,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:43.584Z",
+    "created_at": "2025-12-02T00:45:01.260Z"
+  },
+  {
+    "_id": "692e368fb1dfa66f1f000000",
+    "node_id": "NODE_03853",
+    "latitude": 5.077691,
+    "longitude": 102.887855,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:01.440Z",
+    "created_at": "2025-12-02T00:45:03.853Z"
+  },
+  {
+    "_id": "692e3694b1dfa76f1f000000",
+    "node_id": "NODE_08406",
+    "latitude": 5.13147,
+    "longitude": 102.848896,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:19.705Z",
+    "created_at": "2025-12-02T00:45:08.406Z"
+  },
+  {
+    "_id": "692e36a9b1dfa86f1f000000",
+    "node_id": "NODE_29363",
+    "latitude": 6.274855,
+    "longitude": 100.202224,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:23.305Z",
+    "created_at": "2025-12-02T00:45:29.363Z"
+  },
+  {
+    "_id": "692e36cdb1dfa96f1f000000",
+    "node_id": "NODE_65088",
+    "latitude": 1.482325,
+    "longitude": 110.287056,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:35.121Z",
+    "created_at": "2025-12-02T00:46:05.088Z"
+  },
+  {
+    "_id": "692e36d0b1dfaa6f1f000000",
+    "node_id": "NODE_68849",
+    "latitude": 1.47848,
+    "longitude": 110.301368,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:45.062Z",
+    "created_at": "2025-12-02T00:46:08.849Z"
+  },
+  {
+    "_id": "692e36e3b1dfab6f1f000000",
+    "node_id": "NODE_87481",
+    "latitude": 1.56644,
+    "longitude": 110.397693,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:36.727Z",
+    "created_at": "2025-12-02T00:46:27.481Z"
+  },
+  {
+    "_id": "692e36ecb1dfac6f1f000000",
+    "node_id": "NODE_96723",
+    "latitude": 1.570461,
+    "longitude": 110.403793,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:43.600Z",
+    "created_at": "2025-12-02T00:46:36.723Z"
+  },
+  {
+    "_id": "692e43d48d73a5a81016310c",
+    "node_id": "420737733",
+    "latitude": 1.617115,
+    "longitude": 110.210508,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:53.192Z",
+    "created_at": "2025-10-24T01:41:40.321Z"
+  },
+  {
+    "_id": "692e43d48d73a5a81016310d",
+    "node_id": "925019358",
+    "latitude": 1.616093,
+    "longitude": 110.224967,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:24.205Z",
+    "created_at": "2025-12-01T01:41:40.589Z"
+  },
+  {
+    "_id": "692e43d48d73a5a81016310e",
+    "node_id": "878209092",
+    "latitude": 1.618905,
+    "longitude": 110.238862,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.682Z",
+    "created_at": "2025-11-07T01:41:40.621Z"
+  },
+  {
+    "_id": "692e43d48d73a5a81016310f",
+    "node_id": "588058952",
+    "latitude": 1.619311,
+    "longitude": 110.248687,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.297Z",
+    "created_at": "2025-11-22T01:41:40.654Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163110",
+    "node_id": "595443841",
+    "latitude": 1.613406,
+    "longitude": 110.262709,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.411Z",
+    "created_at": "2025-12-02T01:41:40.685Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163111",
+    "node_id": "651138401",
+    "latitude": 1.611554,
+    "longitude": 110.282846,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:31.849Z",
+    "created_at": "2025-12-02T01:41:40.716Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163112",
+    "node_id": "496055063",
+    "latitude": 1.619247,
+    "longitude": 110.289547,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.537Z",
+    "created_at": "2025-11-03T01:41:40.746Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163113",
+    "node_id": "185460121",
+    "latitude": 1.617549,
+    "longitude": 110.305933,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:31.049Z",
+    "created_at": "2025-11-06T01:41:40.776Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163114",
+    "node_id": "412745943",
+    "latitude": 1.627338,
+    "longitude": 110.214393,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.316Z",
+    "created_at": "2025-11-02T01:41:40.808Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163115",
+    "node_id": "954760743",
+    "latitude": 1.627789,
+    "longitude": 110.228873,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:41.002Z",
+    "created_at": "2025-11-12T01:41:40.838Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163116",
+    "node_id": "404279698",
+    "latitude": 1.622755,
+    "longitude": 110.235461,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:51.409Z",
+    "created_at": "2025-10-10T01:41:40.867Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163117",
+    "node_id": "879397674",
+    "latitude": 1.620769,
+    "longitude": 110.256286,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.737Z",
+    "created_at": "2025-10-15T01:41:40.897Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163118",
+    "node_id": "690861716",
+    "latitude": 1.628601,
+    "longitude": 110.270482,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.949Z",
+    "created_at": "2025-10-21T01:41:40.928Z"
+  },
+  {
+    "_id": "692e43d48d73a5a810163119",
+    "node_id": "266647669",
+    "latitude": 1.622522,
+    "longitude": 110.273778,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:37.269Z",
+    "created_at": "2025-10-05T01:41:40.957Z"
+  },
+  {
+    "_id": "692e43d48d73a5a81016311a",
+    "node_id": "351940317",
+    "latitude": 1.623576,
+    "longitude": 110.288344,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.107Z",
+    "created_at": "2025-10-19T01:41:40.986Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016311b",
+    "node_id": "930163616",
+    "latitude": 1.628971,
+    "longitude": 110.301722,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.440Z",
+    "created_at": "2025-10-11T01:41:41.016Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016311c",
+    "node_id": "483975177",
+    "latitude": 1.634335,
+    "longitude": 110.212051,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:23.967Z",
+    "created_at": "2025-11-18T01:41:41.046Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016311d",
+    "node_id": "782001622",
+    "latitude": 1.631716,
+    "longitude": 110.225515,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.276Z",
+    "created_at": "2025-10-29T01:41:41.076Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016311e",
+    "node_id": "401364353",
+    "latitude": 1.63627,
+    "longitude": 110.240511,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.612Z",
+    "created_at": "2025-12-01T01:41:41.107Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016311f",
+    "node_id": "553862815",
+    "latitude": 1.635824,
+    "longitude": 110.25534,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:37.200Z",
+    "created_at": "2025-11-17T01:41:41.135Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163120",
+    "node_id": "450661874",
+    "latitude": 1.638132,
+    "longitude": 110.268322,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.278Z",
+    "created_at": "2025-11-28T01:41:41.167Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163121",
+    "node_id": "661381102",
+    "latitude": 1.631839,
+    "longitude": 110.275711,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.436Z",
+    "created_at": "2025-11-14T01:41:41.197Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163122",
+    "node_id": "482630428",
+    "latitude": 1.636093,
+    "longitude": 110.293607,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:52.855Z",
+    "created_at": "2025-10-25T01:41:41.228Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163123",
+    "node_id": "450002004",
+    "latitude": 1.632446,
+    "longitude": 110.307301,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.246Z",
+    "created_at": "2025-11-12T01:41:41.260Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163124",
+    "node_id": "735500578",
+    "latitude": 1.642594,
+    "longitude": 110.21,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:41.148Z",
+    "created_at": "2025-11-13T01:41:41.290Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163125",
+    "node_id": "763275481",
+    "latitude": 1.644305,
+    "longitude": 110.227703,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.274Z",
+    "created_at": "2025-11-12T01:41:41.321Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163126",
+    "node_id": "781950626",
+    "latitude": 1.639402,
+    "longitude": 110.239031,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:29.330Z",
+    "created_at": "2025-11-08T01:41:41.350Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163127",
+    "node_id": "382478939",
+    "latitude": 1.645205,
+    "longitude": 110.250255,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:45.153Z",
+    "created_at": "2025-10-07T01:41:41.380Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163128",
+    "node_id": "664961372",
+    "latitude": 1.641319,
+    "longitude": 110.269501,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.313Z",
+    "created_at": "2025-10-27T01:41:41.414Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163129",
+    "node_id": "282864386",
+    "latitude": 1.64037,
+    "longitude": 110.274085,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.356Z",
+    "created_at": "2025-10-22T01:41:41.443Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312a",
+    "node_id": "255124225",
+    "latitude": 1.639121,
+    "longitude": 110.298449,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:19.641Z",
+    "created_at": "2025-11-29T01:41:41.472Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312b",
+    "node_id": "199050817",
+    "latitude": 1.640259,
+    "longitude": 110.305115,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.262Z",
+    "created_at": "2025-11-06T01:41:41.502Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312c",
+    "node_id": "258896770",
+    "latitude": 1.651805,
+    "longitude": 110.215938,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:50.323Z",
+    "created_at": "2025-11-06T01:41:41.532Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312d",
+    "node_id": "558566877",
+    "latitude": 1.65177,
+    "longitude": 110.219271,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:31.627Z",
+    "created_at": "2025-11-21T01:41:41.561Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312e",
+    "node_id": "168685486",
+    "latitude": 1.649482,
+    "longitude": 110.234876,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.282Z",
+    "created_at": "2025-11-02T01:41:41.591Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016312f",
+    "node_id": "102503180",
+    "latitude": 1.64952,
+    "longitude": 110.257003,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:30.117Z",
+    "created_at": "2025-10-24T01:41:41.621Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163130",
+    "node_id": "793330920",
+    "latitude": 1.650811,
+    "longitude": 110.267216,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:43.722Z",
+    "created_at": "2025-10-18T01:41:41.651Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163131",
+    "node_id": "241755536",
+    "latitude": 1.653185,
+    "longitude": 110.276587,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:45.826Z",
+    "created_at": "2025-10-25T01:41:41.680Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163132",
+    "node_id": "987408025",
+    "latitude": 1.656145,
+    "longitude": 110.292787,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:20.577Z",
+    "created_at": "2025-10-16T01:41:41.711Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163133",
+    "node_id": "707603144",
+    "latitude": 1.65533,
+    "longitude": 110.30561,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.344Z",
+    "created_at": "2025-10-31T01:41:41.741Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163134",
+    "node_id": "572379021",
+    "latitude": 1.664668,
+    "longitude": 110.20692,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.226Z",
+    "created_at": "2025-11-14T01:41:41.770Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163135",
+    "node_id": "411890889",
+    "latitude": 1.660384,
+    "longitude": 110.228468,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.196Z",
+    "created_at": "2025-11-23T01:41:41.800Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163136",
+    "node_id": "654736689",
+    "latitude": 1.66471,
+    "longitude": 110.238494,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:34.321Z",
+    "created_at": "2025-11-18T01:41:41.831Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163137",
+    "node_id": "536663975",
+    "latitude": 1.661309,
+    "longitude": 110.250192,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:41.850Z",
+    "created_at": "2025-11-17T01:41:41.861Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163138",
+    "node_id": "102509075",
+    "latitude": 1.660198,
+    "longitude": 110.269367,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:24.485Z",
+    "created_at": "2025-11-11T01:41:41.891Z"
+  },
+  {
+    "_id": "692e43d58d73a5a810163139",
+    "node_id": "475028561",
+    "latitude": 1.664036,
+    "longitude": 110.280123,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.698Z",
+    "created_at": "2025-11-02T01:41:41.920Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016313a",
+    "node_id": "371099205",
+    "latitude": 1.663425,
+    "longitude": 110.291108,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:32.700Z",
+    "created_at": "2025-11-02T01:41:41.949Z"
+  },
+  {
+    "_id": "692e43d58d73a5a81016313b",
+    "node_id": "998958290",
+    "latitude": 1.664364,
+    "longitude": 110.308983,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.486Z",
+    "created_at": "2025-10-24T01:41:41.993Z"
+  },
+  {
+    "_id": "692e43d68d73a5a81016313c",
+    "node_id": "785334714",
+    "latitude": 1.666424,
+    "longitude": 110.213046,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.266Z",
+    "created_at": "2025-11-21T01:41:42.025Z"
+  },
+  {
+    "_id": "692e43d68d73a5a81016313d",
+    "node_id": "935168534",
+    "latitude": 1.672972,
+    "longitude": 110.227882,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.290Z",
+    "created_at": "2025-11-22T01:41:42.055Z"
+  },
+  {
+    "_id": "692e43d68d73a5a81016313e",
+    "node_id": "498232331",
+    "latitude": 1.67089,
+    "longitude": 110.237977,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:34.780Z",
+    "created_at": "2025-10-20T01:41:42.084Z"
+  },
+  {
+    "_id": "692e43d68d73a5a81016313f",
+    "node_id": "741674875",
+    "latitude": 1.667353,
+    "longitude": 110.255357,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:40.264Z",
+    "created_at": "2025-10-09T01:41:42.114Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163140",
+    "node_id": "208432924",
+    "latitude": 1.673924,
+    "longitude": 110.267764,
+    "current_level": 1,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:36.690Z",
+    "created_at": "2025-11-28T01:41:42.144Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163141",
+    "node_id": "102606924",
+    "latitude": 1.670739,
+    "longitude": 110.280837,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:44.612Z",
+    "created_at": "2025-11-12T01:41:42.175Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163142",
+    "node_id": "522373961",
+    "latitude": 1.673663,
+    "longitude": 110.294425,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.509Z",
+    "created_at": "2025-11-19T01:41:42.207Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163143",
+    "node_id": "667733921",
+    "latitude": 1.673513,
+    "longitude": 110.306684,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:42.334Z",
+    "created_at": "2025-11-19T01:41:42.236Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163144",
+    "node_id": "391967939",
+    "latitude": 1.682753,
+    "longitude": 110.208616,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:49.485Z",
+    "created_at": "2025-11-30T01:41:42.265Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163145",
+    "node_id": "887714612",
+    "latitude": 1.681047,
+    "longitude": 110.220556,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:51.288Z",
+    "created_at": "2025-11-16T01:41:42.295Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163146",
+    "node_id": "422478552",
+    "latitude": 1.680364,
+    "longitude": 110.237581,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:17.665Z",
+    "created_at": "2025-10-07T01:41:42.324Z"
+  },
+  {
+    "_id": "692e43d68d73a5a810163147",
+    "node_id": "963921593",
+    "latitude": 1.680133,
+    "longitude": 110.249234,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:47.118Z",
+    "created_at": "2025-10-11T01:41:42.353Z"
+  },
+  {
+    "_id": "692e566f3571e8459a000000",
+    "node_id": "NODE_63779",
+    "latitude": 5.026569,
+    "longitude": 100.673195,
+    "current_level": 3,
+    "is_dead": false,
+    "last_updated": "2026-02-27T00:54:30.228Z",
+    "created_at": "2025-12-02T03:01:03.780Z"
+  },
+  {
+    "_id": "692e57523571e9459a000000",
+    "node_id": "NODE_90779",
+    "latitude": 4.865327,
+    "longitude": 100.712661,
+    "current_level": 2,
+    "is_dead": false,
+    "last_updated": "2026-02-27T07:16:48.416Z",
+    "created_at": "2025-12-02T03:04:50.779Z"
+  },
+  {
+    "_id": "69a0dde67c18a6d7f081029a",
+    "node_id": "SUTS_River1",
+    "latitude": 0,
+    "longitude": 0,
+    "current_level": 2,
+    "is_dead": true,
+    "last_updated": "2026-03-01T06:13:18.822Z",
+    "created_at": "2026-02-26T23:57:26.538Z"
+  },
+  {
+    "_id": "69a14409e269d51ab048d3ed",
+    "node_id": "SUTS_River2",
+    "latitude": 1.750139,
+    "longitude": 110.31498,
+    "current_level": 0,
+    "is_dead": true,
+    "last_updated": "2026-03-01T06:13:23.933Z",
+    "created_at": "2026-02-27T07:13:13.375Z"
+  }
+]

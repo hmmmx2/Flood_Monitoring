@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "69298202520721b13537ee59",
+    "log_id": 1,
+    "master_id": "Master-1",
+    "action": "Analyze Data & Issue Command",
+    "timestamp": "2025-11-28T11:05:38.163Z",
+    "details": {
+      "node_id": "Node-1",
+      "analysis_result": "Level 2 Warning: Water level rising",
+      "issued_command": "Activate Buzzer"
+    }
+  },
+  {
+    "_id": "69298202520721b13537ee5a",
+    "log_id": 2,
+    "master_id": "Master-1",
+    "action": "Rebroadcast Message",
+    "timestamp": "2025-11-28T11:05:38.163Z",
+    "details": {
+      "node_id": "Node-2",
+      "message_type": "Data Sync",
+      "rebroadcast_count": 3
+    }
+  }
+]

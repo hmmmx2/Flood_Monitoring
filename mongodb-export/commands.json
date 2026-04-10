@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "69298202520721b13537ee57",
+    "command_id": 1,
+    "node_id": "Node-1",
+    "from": "Master-1",
+    "to": "Node-1",
+    "action": "Activate Buzzer",
+    "timestamp": "2025-11-28T11:05:38.033Z",
+    "status": "Executed",
+    "ack": {
+      "received": true,
+      "response_time": "2025-11-28T11:05:38.033Z"
+    }
+  },
+  {
+    "_id": "69298202520721b13537ee58",
+    "command_id": 2,
+    "node_id": "Node-2",
+    "from": "Master-1",
+    "to": "Node-2",
+    "action": "Activate LED Warning",
+    "timestamp": "2025-11-28T11:05:38.033Z",
+    "status": "Pending",
+    "ack": {
+      "received": false
+    }
+  }
+]

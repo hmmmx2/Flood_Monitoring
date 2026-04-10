@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "69298201520721b13537ee54",
+    "node_id": "Node-2",
+    "timestamp": "2025-11-28T10:55:37.749Z",
+    "status": "Alive",
+    "master_check": {
+      "checkedBy": "Master-1",
+      "responseTime": "2025-11-28T10:56:37.749Z"
+    }
+  },
+  {
+    "_id": "69298201520721b13537ee53",
+    "node_id": "Node-1",
+    "timestamp": "2025-11-28T11:05:37.749Z",
+    "status": "Alive",
+    "master_check": {
+      "checkedBy": "Master-1",
+      "responseTime": "2025-11-28T11:05:37.749Z"
+    }
+  }
+]

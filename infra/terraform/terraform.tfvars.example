@@ -1,0 +1,22 @@
+# ─────────────────────────────────────────────────────────────
+# Copy this file to terraform.tfvars and fill in real values:
+#   cp terraform.tfvars.example terraform.tfvars
+#
+# NEVER commit terraform.tfvars to Git — it contains secrets
+# It is already listed in .gitignore
+# ─────────────────────────────────────────────────────────────
+
+aws_region  = "ap-southeast-1"
+app_name    = "flood-monitoring"
+environment = "prod"
+
+# Get these from Neon dashboard
+database_url = "jdbc:postgresql://ep-xxxx.aws.neon.tech/neondb?sslmode=require&user=xxx&password=xxx"
+
+# Your JWT secrets
+jwt_secret         = "your-jwt-secret-here"
+jwt_refresh_secret = "your-jwt-refresh-secret-here"
+
+# Optional
+redis_url           = ""
+google_maps_api_key = ""
